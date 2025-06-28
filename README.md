@@ -1,11 +1,11 @@
 <!-- Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;Machine+Learning+%7C+Python+%7C+Raspberry+Pi+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;M+L+&+A+I+%7C+Python+%7C+Raspberry+Pi+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/vinay-kapri-1947872a8/)"><img src="https://img.shields.io/badge/LinkedIn-QuantumCoder-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:vinaykapri2004@gmail.com"><img src="https://img.shields.io/badge/Email-quantumcoder@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="[(https://www.linkedin.com/in/vinay-kapri-1947872a8/)]()"><img src="https://img.shields.io/badge/LinkedIn-Vinay-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:vinaykapri2004@gmail.com"><img src="https://img.shields.io/badge/Email-vianykapri2004@gmail.com-red?style=flat&logo=gmail" /></a>
   
 </p>
 
