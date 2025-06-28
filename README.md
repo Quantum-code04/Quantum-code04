@@ -1,16 +1,16 @@
-<h1 align="center">Hello🤖, I'm Vinay Kapri (Quantum coder)</h1>
-<h3 align="center">🚀 | Explorer of Code ,AI ,ML & Creativity</h3>
+<!-- Typing Animation Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+I'm+Quantum+Coder;Deep+Learning+%7C+Python+%7C+Raspberry+Pi+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-QuantumCoder-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:quantumcoder@gmail.com"><img src="https://img.shields.io/badge/Email-quantumcoder@gmail.com-red?style=flat&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=QuantumCoder&style=flat-square&color=blue" alt="profile views" />
+</p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 B.Tech in Computer Science @ [Galgotias University] (2024–2027)
-- 💼 Currently working on exciting tech like **ML,**Deep Learning** , **DSA**, and **AI**
-- 💬 Ask me about **Ml**, **Deep Learning**, **CNN**
-- 🧠 Constantly learning and improving my coding skills
-- 🌟 Fun Fact: I believe quantum logic can change the digital world!
-
----
 ### 🏆 Achievements
 
 - 🧠 Built and trained custom deep learning models using PyTorch,tenserFlow , SkLearn.
@@ -41,6 +41,22 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+---
+### 🧑‍💻 About Me
+- 🎓 B.Tech in Computer Science @ [Galgotias University] (2024–2027)
+- 💼 Currently working on exciting tech like **ML,**Deep Learning** , **DSA**, and **AI**
+- 💬 Ask me about **Ml**, **Deep Learning**, **CNN**
+- 🧠 Constantly learning and improving my coding skills
+- 🌟 Fun Fact: I believe quantum logic can change the digital world!
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRanjan-17&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
