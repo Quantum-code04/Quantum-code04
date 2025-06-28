@@ -1,12 +1,11 @@
 <!-- Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;ML+and+AI+%7C+Python+%7C+Raspberry+Pi+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;ML$AI+%7C+Python+%7C+Raspberry+Pi+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/vinay-kapri-1947872a8/)]()"><img src="https://img.shields.io/badge/LinkedIn-Vinay-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:vinaykapri2004@gmail.com"><img src="https://img.shields.io/badge/Email-vianykapri2004@gmail.com-red?style=flat&logo=gmail" /></a>
-  
+  <a href="https://www.linkedin.com/in/vinay-kapri-1947872a8/"><img src="https://img.shields.io/badge/LinkedIn-Vinay-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:vinaykapri2004@gmail.com"><img src="https://img.shields.io/badge/Email-vinaykapri2004@gmail.com-red?style=flat&logo=gmail" /></a>
 </p>
 
 ---
@@ -17,6 +16,7 @@
 - 🔌 Set up headless Raspberry Pi 5 AI pipelines with camera input
 - 🛠️ Automated workflows and built efficient tools using Python scripting
 - 🌐 Contributed to open-source projects and personal GitHub repositories
+- 💡 Always curious to explore new tech
 
 ---
 ---
@@ -54,10 +54,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NRanjan-17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRanjan-17&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinaykapri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaykapri&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ### 📫 Contact Me
