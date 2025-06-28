@@ -11,6 +11,19 @@
 - 🌟 Fun Fact: I believe quantum logic can change the digital world!
 
 ---
+### 🏆 Achievements
+
+- 🧠 Built and trained custom deep learning models using PyTorch,tenserFlow , SkLearn.
+- 🔌 Set up headless Raspberry Pi 5 AI pipelines with camera input
+- 🛠️ Automated workflows and built efficient tools using Python scripting
+- 🌐 Contributed to open-source projects and personal GitHub repositories
+
+---
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumCoder&label=Profile%20views&color=0e75b6&style=flat" alt="QuantumCoder" />
+</p>
 ---
 
 ### 💻 Tech Stack
