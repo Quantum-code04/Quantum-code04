@@ -27,9 +27,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
 ### 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-quantumcoder%40gmail.com-red)](mailto:quantumcoder@gmail.com)
+[![Email](https://img.shields.io/badge/Email-vinaykapri2004gmail.com-red)](mailto:quantumcoder@gmail.com)
 
