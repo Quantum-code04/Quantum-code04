@@ -1,12 +1,12 @@
 <!-- Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+I'm+Quantum+Coder;Deep+Learning+%7C+Python+%7C+Raspberry+Pi+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+I'm+Vinay+Kapri;Deep+Learning+%7C+Python;%7C+Raspberry+Pi+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-QuantumCoder-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:quantumcoder@gmail.com"><img src="https://img.shields.io/badge/Email-quantumcoder@gmail.com-red?style=flat&logo=gmail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=QuantumCoder&style=flat-square&color=blue" alt="profile views" />
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/vinay-kapri-1947872a8/)"><img src="https://img.shields.io/badge/LinkedIn-QuantumCoder-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:vinaykapri2004@gmail.com"><img src="https://img.shields.io/badge/Email-quantumcoder@gmail.com-red?style=flat&logo=gmail" /></a>
+  
 </p>
 
 ---
