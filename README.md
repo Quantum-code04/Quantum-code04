@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Quantum Coder</h1>
-<h3 align="center">🚀 Passionate Developer | Explorer of Code ,AI ,ML & Creativity</h3>
+<h1 align="center">Hello🤖, I'm Vinay Kapri (Quantum coder)</h1>
+<h3 align="center">🚀 | Explorer of Code ,AI ,ML & Creativity</h3>
 
 ---
 
