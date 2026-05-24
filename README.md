@@ -1,6 +1,6 @@
 <!-- Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;ML$AI+%7C+Python+%7C+Raspberry+Pi+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hello,+I+am+Vinay+Kapri;ML$AI+%7C+Python+%7C+Raspberry+Pi
     " alt="Typing SVG" />
 </h1>
 
